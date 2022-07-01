@@ -1,0 +1,10 @@
+        {
+            "colorScheme": "Vintage",
+            "cursorShape": "vintage",
+            "experimental.retroTerminalEffect": true,
+            "font": 
+            {
+                "face": "OCR A"
+            },
+            "opacity": 75
+        },
